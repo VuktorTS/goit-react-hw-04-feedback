@@ -1,0 +1,14 @@
+.btnList {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+.btnItem {
+}
+.btn {
+  padding: 6px 10px;
+  display: block;
+  background-color: #00000021;
+  border: 1px black solid;
+  border-radius: 3px;
+}
